@@ -6,7 +6,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="${n}" class="logo vanilla" alt="JavaScript logo" />
     </a>
-    <h1 class="text-red-700">Hello Vite!</h1>
+    <h1 class="text-red-700 bg-sky-500">Hello Vite!</h1>
     <div class="card">
       <button id="counter" type="button"></button>
     </div>
